@@ -89,5 +89,52 @@ markmap:
 ### Regression Testing
 
 ## Android
-###  Architektur 
-###  Security 
+### Jetpack Compose
+
+### UI/UX
+
+#### Material Design
+
+### Architektur 
+#### Threading und Asynchronität
+#### Entwurfsmuster
+##### Entwurfsmuster
+##### Architekturmuster
+
+### Gradle - Build System
+#### Funktionsweise
+##### Wrapper
+##### Abgrenzung andere Build-Systeme (Maven, Ant)
+#### Dateien und Konfiguration
+##### Struktur Android-Projekte
+##### DSL
+#### Abhängigkeiten
+##### Repository-Typen
+##### Transitive Dependencies
+##### Abhängigkeitkonflikte
+#### Varianten und Produktflavors
+##### Build-Varianten, Build-Typen und Produktflavors
+##### Ressourcenverwaltung
+#### Optimierung und Performance
+##### Caching
+##### Parallelisierung
+##### Profiling Tools
+#### Tasks
+##### Standard-Build-Tasks
+##### Benutzerdefinierte Tasks
+##### Task-Abhängigkeiten & -Reihenfolge
+#### Gradle-Plugins
+##### Eigene Plugins
+##### Verwendung von Gradle-Plugins in Android-Projekten
+#### CI & CD
+##### Integration in CI-Systeme (Gitlab, Github)
+##### Automatisierung von Build-, Test- und Deployment-Prozessen
+
+### Security 
+
+### Third Party Libraries
+
+### NDK
+#### CMAKE
+
+### Cross-Platform
