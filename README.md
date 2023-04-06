@@ -169,6 +169,8 @@ markmap:
 
 #### Entwurfsmuster
 ##### Entwurfsmuster
+###### Dependency Injection
+####### Dagger, Koin & Hilt
 ##### Architekturmuster
 
 ### Gradle - Build System
