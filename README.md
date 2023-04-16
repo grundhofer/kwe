@@ -92,9 +92,16 @@ markmap:
 
 #### Jetpack Compose
 ##### Konzepte
+###### Recomposition
+###### Side-effects
 ##### Layouts und Styling
+###### Theming
 ##### Interaktionen & Animationen
 ##### Navigation
+###### Navigation Graph
+###### Global Actions
+###### Destinations
+###### DeepLink
 ##### Datenmanagement
 ##### Benutzerdefinierte Komponenten
 #### Material Design
@@ -106,6 +113,24 @@ markmap:
 ###### Complex View Elements (Recyclerview, Fragments, ...)
 
 ### Architektur 
+#### App Components
+##### Activities
+###### Lifecycle
+###### Activity State Changes
+###### Task and Back Stack
+###### Parcelables and Bundles
+##### Service
+##### Broadcast Receiver
+##### Intent
+###### Intent Filters
+###### Explicit Intents
+###### Implicit Intents
+#### Android Platform Architecture
+##### The Linux Kernel
+##### Android Runtime
+##### Hardware Abstraction Layer
+##### Native Libraries
+##### System Apps
 #### Jetpack Bibliotheken
 ##### Kernfunktionalität (AppCompat, Android KTX, Multidex ...)
 ##### Architekturkomponenten (ViewModel, LiveData, Data Binding, Room, Navigation und WorkManager)
@@ -153,6 +178,8 @@ markmap:
 ##### Websockets
 ##### WebRTC
 ##### Service-Discovery
+##### Image Loading
+###### Glide, Coil, Fresco & Picasso
 
 #### Threading und Parallelisierung
 ##### Kotlin Coroutines Dispatchers
@@ -169,8 +196,7 @@ markmap:
 
 #### Entwurfsmuster
 ##### Entwurfsmuster
-###### Dependency Injection
-####### Dagger, Koin & Hilt
+###### Dependency Injection (Dagger, Koin & Hilt)
 ##### Architekturmuster
 
 ### Gradle - Build System
@@ -204,6 +230,7 @@ markmap:
 
 ### Sprachen
 #### Java
+#### C++(JNI)
 #### Kotlin
 ##### Grundlagen und Konzepte
 ##### DSL
@@ -267,3 +294,16 @@ markmap:
 #### Kotlin Multiplatform Mobile
 #### Kotlin Native
 #### Kotlin WebAssembly
+
+### Code Analytics & Test
+#### Linter
+#### Debugging
+#### Benchmark
+#### Unit Testing
+#### UI Tests
+
+### App Publishing
+#### Firebase App Distribution
+#### Google Play Store
+#### Android Package
+##### APK & AAB
